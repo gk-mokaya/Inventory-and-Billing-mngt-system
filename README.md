@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Stephen Murichu's Logo" width="100" />
+  <img src="sales-and-inventory-management\static\images\logo\ksk-high-resolution-logo-black-transparent.png" alt="sales-and-inventory-management\static\images\logo\ksk-high-resolution-logo-black-transparent.png" width="100" />
 </div>
 
 # Django-inventory-management
