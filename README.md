@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="sales-and-inventory-management\static\images\logo\ksk-high-resolution-logo-black-transparent.png" alt="sales-and-inventory-management\static\images\logo\ksk-high-resolution-logo-black-transparent.png" width="100" />
+  <img src="static\images\logo\ksk-high-resolution-logo-black-transparent.png" alt="sales-and-inventory-management\static\images\logo\ksk-high-resolution-logo-black-transparent.png" width="100" />
 </div>
 
 # Django-inventory-management
